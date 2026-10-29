@@ -19,7 +19,7 @@
 
 <br/>
 
-I am **Nipurn Agarwal**, Founder & CEO of **[100XPrompt](https://100xprompt.com)**. I build terminal coding agents, AI agent memory systems, and developer infrastructure with a strong focus on developer velocity, context efficiency, and high-performance tooling.
+I am **Nipurn Agarwal**, Founder **[100XPrompt](https://100xprompt.com)**. I build terminal coding agents, AI agent memory systems, and developer infrastructure with a strong focus on developer velocity, context efficiency, and high-performance tooling.
 
 ---
 
