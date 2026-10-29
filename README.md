@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nipurn Agarwal
-### Founder & CEO @ [100XPrompt](https://100xprompt.com)
+### Founder@ [100XPrompt](https://100xprompt.com)
 
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+the+AI+coding-agent+stack+%F0%9F%A4%96;Chitta+Agent+Memory+%C2%B7+x-os-studio+%C2%B7+MCP+Tooling;Multi-model+agent+harness+%C2%B7+TypeScript+%26+Go">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+the+AI+coding-agent+stack+%F0%9F%A4%96;Chitta+Agent+Memory+%C2%B7+x-os-studio+%C2%B7+MCP+Tooling;Multi-model+agent+harness+%C2%B7+TypeScript+%26+Go" alt="Typing SVG" />
